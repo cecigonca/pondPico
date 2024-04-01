@@ -6,6 +6,6 @@ Este repositório contém uma atividade que tem por objetivo desenvolver uma pla
 
 ## Imagens
 ### Esquemático
-![Esquemático do Circuito](\imagens\esquematico.png")
+![Esquemático do Circuito](imagens\esquematico.png)
 ### PCB
-![Esquemático do Circuito](\imagens\pcb.png")
+![Esquemático do Circuito](imagens\pcb.png)
