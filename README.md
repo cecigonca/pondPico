@@ -8,4 +8,4 @@ Este repositório contém uma atividade que tem por objetivo desenvolver uma pla
 ### Esquemático
 ![Esquemático do Circuito](imagens/esquematico.png)
 ### PCB
-![Esquemático do Circuito](imagens/pcb.png)
+![PCB](imagens/pcb.png)
